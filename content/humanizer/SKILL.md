@@ -2,6 +2,9 @@
 name: humanizer
 description: >
   Remove signs of AI-generated writing from text while preserving or strengthening professional register. Use when editing or reviewing text to make it sound more natural and human-written, without making it casual or conversational. Optimised for professional writing like forum threads, help centre articles, product copy, API documentation, compliance content, and technical writing. Detects and fixes patterns including inflated symbolism, promotional language, superficial -ing analyses, vague attributions, em dash overuse, rule of three, AI vocabulary words, negative parallelisms, and excessive conjunctive phrases. Trigger when the user says "humanize", "remove AI writing", "make this sound less AI", "de-AI this", "edit for natural writing", "fix the AI tone", or pastes text that reads as AI-generated and wants it cleaned up.
+metadata:
+  author: Aangi Morakhia
+  version: 1.0.0
 
 ---
 
