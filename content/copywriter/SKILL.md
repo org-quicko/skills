@@ -1,6 +1,9 @@
 ---
 name: copywriter
 description: "A foundational copywriting skill that produces persuasive, human, conversion-focused copy grounded in globally recognized principles like AIDA, PAS, Cialdini, Ogilvy, and more. Use this skill whenever the user wants to write, review, rewrite, or improve any piece of copy: headlines, landing pages, marketing or transactional emails, ads, product descriptions, CTAs, social posts, sales pages, or any other content meant to move a reader toward an action. Also trigger when the user asks to \"make this more persuasive\", \"improve this copy\", \"write a hook\", \"make this sell better\", or references any copywriting framework by name. If the user is writing for a brand, product, or audience — use this skill."
+metadata:
+  author: Aangi Morakhia
+  version: 1.0.0
 ---
 
 # Copywriting Skill
